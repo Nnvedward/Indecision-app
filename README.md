@@ -12,21 +12,21 @@
 
 # Getting Started
 
-***Prerequisites***
+**Prerequisites**
 
 In order to have this project up and running you will need:
 
-* NodeJS 10+
+`NodeJS 10+`
 
-***Setup***  
+**Setup**  
 
 First, you need to clone this project using one of the links above, using this command:
 
-> git clone https://github.com/Nnvedward/indecision-app.git
+ git clone `https://github.com/Nnvedward/indecision.git`
 
-Then you should run: **npm install**
+Then you should run: `npm install`
 
-And afterward, you supposed to run: **npm run dev-server**, to run the project in your local machine.
+And afterward, you supposed to run: `npm run dev-server`, to run the project in your local machine.
 
 Then head to the localhost on port 8080 **https://localhost:8080**
 
